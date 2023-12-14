@@ -2,9 +2,7 @@
 import Navbar from "@/components/Navbar";
 import Tarjetamarker from "@/components/Tarjetamarker";
 
-
-
-function Admin() {
+export default function Admin() {
 
   const markers = [
     {
@@ -40,5 +38,3 @@ function Admin() {
         </div>
     )
 }
-
-export default Admin;
