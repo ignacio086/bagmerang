@@ -1,5 +1,4 @@
-'use client'
-import { popup } from "leaflet";
+
 import { GiCancel } from "react-icons/gi";
 export default function Tarjetamarker({titulo , coordenadax, coordenaday  , funcion}){
     return(

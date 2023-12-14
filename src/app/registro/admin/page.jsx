@@ -1,4 +1,4 @@
-'use client'
+
 import Navbar from "@/components/Navbar";
 import Tarjetamarker from "@/components/Tarjetamarker";
 
